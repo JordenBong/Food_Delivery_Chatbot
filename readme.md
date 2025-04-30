@@ -24,7 +24,7 @@ Mira is an AI-powered chatbot designed for a Food Delivery System, built using G
     │   ├── db_helper.py      * Connection to MySQL DB
     │   ├── generic_helper.py * Some common generic functions
     │   └── requirements.txt  # Dependencies  
-    ├── db/                   # Database(.sql)  
+    ├── db/                   # Database(.db)  
     ├── dialogflow_assets/    # DialogFlow config & guidelines  
     ├── frontend/             # Static web files (HTML/CSS/Images)  
     └── README.md             
