@@ -26,6 +26,7 @@ Mira is an AI-powered chatbot designed for a Food Delivery System, built using G
     ├── db/                   # Database(.db)  
     ├── dialogflow_assets/    # DialogFlow config & guidelines  
     ├── frontend/             # Static web files (HTML/CSS/Images)  
+    ├── img/                  # Demo images
     └── README.md             
   
 
@@ -35,5 +36,8 @@ This project was developed as part of the Codebasics learning program. Special t
 **Refer:** 
 [End-to-End NLP Project | Build a Chatbot in Dialogflow | NLP Tutorial | S3 E2](https://www.youtube.com/watch?v=2e5pQqBvGco&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=27)
 
+## Demo 
+![Dialogflow Demo](img/Dialogflow%20demo.png)
 
+![Dialogflow Integration with Web](img/Dialogflow%20Integration%20with%20Web.png)
 
