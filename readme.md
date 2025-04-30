@@ -18,7 +18,6 @@ Mira is an AI-powered chatbot designed for a Food Delivery System, built using G
 
 ## 📂 Project Structure
     Food-Delivery-Chatbot/
-    mira-chatbot/  
     ├── backend/              # FastAPI Python backend  
     │   ├── main.py           # API routes 
     │   ├── db_helper.py      * Connection to MySQL DB
