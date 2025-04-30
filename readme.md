@@ -17,17 +17,17 @@ Mira is an AI-powered chatbot designed for a Food Delivery System, built using G
 - NGROK: For https tunneling
 
 ## 📂 Project Structure
-  Food-Delivery-Chatbot/
-  mira-chatbot/  
-  ├── backend/              # FastAPI Python backend  
-  │   ├── main.py           # API routes 
-  │   ├── db_helper.py      * Connection to MySQL DB
-  │   ├── generic_helper.py * Some common generic functions
-  │   └── requirements.txt  # Dependencies  
-  ├── db/                   # Database(.sql)  
-  ├── dialogflow_assets/    # DialogFlow config & guidelines  
-  ├── frontend/             # Static web files (HTML/CSS/Images)  
-  └── README.md             
+    Food-Delivery-Chatbot/
+    mira-chatbot/  
+    ├── backend/              # FastAPI Python backend  
+    │   ├── main.py           # API routes 
+    │   ├── db_helper.py      * Connection to MySQL DB
+    │   ├── generic_helper.py * Some common generic functions
+    │   └── requirements.txt  # Dependencies  
+    ├── db/                   # Database(.sql)  
+    ├── dialogflow_assets/    # DialogFlow config & guidelines  
+    ├── frontend/             # Static web files (HTML/CSS/Images)  
+    └── README.md             
   
 
 ## 📚 Attribution & Credits
